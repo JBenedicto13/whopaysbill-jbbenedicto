@@ -5,7 +5,13 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "c4d13318-0eee-4545-88c6-b74cec256ec5"
+      }
+    },
+    "owner": "jbenedicto"
   },
   "name": "whopaysbill"
 }
